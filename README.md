@@ -1,5 +1,12 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+
+Olá  Eu me chamo Ana Paula, 33y ⚡
+🏢 Desenvolvedora Python Jr
+📚 Cursando Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
+🎮 Hobby: Leitura, series e afins...
+📍 Santo André - SP
+
  <div>
   <a href="https://github.com/aplima023">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aplima023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
