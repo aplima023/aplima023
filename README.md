@@ -1,11 +1,17 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 
-Olá  Eu me chamo Ana Paula, 33y ⚡
-🏢 Desenvolvedora Python Jr
-📚 Cursando Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
-🎮 Hobby: Leitura, series e afins...
-📍 Santo André - SP
+## <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu me chamo Ana Paula, 33y ⚡</h1>
+
+
+- 🏢 Desenvolvedora Python Jr
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
+- 🎮 Hobby: Dashboards, leitura, series e afins... 
+- 📍 Santo André - SP
+
+<div align = "center">
+  
+##
 
  <div>
   <a href="https://github.com/aplima023">
